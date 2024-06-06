@@ -99,4 +99,4 @@ public class CountdownTimerWithImage extends Object {
     }
 }
 
-//レビュー者　下山
+
